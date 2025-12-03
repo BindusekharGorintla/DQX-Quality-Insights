@@ -429,8 +429,4 @@ Contributions are welcome! Please:
 3. Submit a pull request
 4. Follow code review process
 
----
 
-**Last Updated:** December 2024
-
-**Maintained By:** DQX Data Quality Team
