@@ -404,22 +404,6 @@ reintroduce_to_pipeline(validated_df)
    # Address any validation failures
    ```
 
----
-
-## 📞 Support
-
-For questions or issues, please:
-- 📧 Contact the DQX team
-- 🐛 Open an issue on GitHub
-- 📖 Review the documentation wiki
-
----
-
-## 📄 License
-
-[Your License Here]
-
----
 
 ## 🤝 Contributing
 
